@@ -1,9 +1,15 @@
 project/
+
 ├── index.html          # Homepage
+
 ├── popular.html        # Popular anime section
+
 ├── recommendations.html # Recommendations with filters
+
 ├── movies.html         # Anime movies collection
+
 ├── about.html          # About us page
+
 └── style.css           # Main stylesheet
 
 
